@@ -1,8 +1,8 @@
 +++
-chapter = "Extrait 1"
+chapter = "Extrait 2"
 date = "2023-02-21T10:01:00.000+00:00"
 title = "La capture, le procès et le bûcher."
-weight = 30
+weight = 40
 chapitre = "oui" +++
 
 ###Extrait d'une exofiction dans le cadre du cours universitaire Exploration des genres
