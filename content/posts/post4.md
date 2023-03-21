@@ -1,12 +1,14 @@
 +++
 chapter = "Extrait 3"
 date = "2023-02-21T10:01:00.000+00:00"
-title = "Des cendres rouges sur Hanokaville"
+title = ""
 weight = 50
 chapitre = "oui"
 +++
 
-### Extrait du "Projet long" réalisé dans le cadre d'un cours universitaire Penser - Écrire
+# Des cendres rouges sur Hanokaville
+
+### _Extrait du "Projet long" réalisé dans le cadre d'un cours universitaire Penser & Écrire_
 
   Les pneus de la voiture crissent lorsque la détective Jacqueline Rivière appuie sur le frein. La nuit vient de tomber, un crépuscule bleuté anime le ciel, mais est terni par la lueur fuchsia et cramoisie des affiches des commerces de l’arrondissement. Le coin est animé. Deux hommes richement habillés de complets foncés, se tenant bras dessus bras dessous, marchent et discutent en direction des clubs de soirées. Sur la nuque de l’un des deux hommes, Jacqueline voit un tatouage de tigre à l’encre rouge. Trois femmes fumant des cigares au coin d’une rue les interpellent grossièrement. Les deux hommes les ignorent et continuent leur chemin, ils entrent dans un établissement dont le reflet de l’enseigne néon vermeille brille sur la chaussée mouillée.  
   Jacqueline sort du véhicule sans oublier son petit sac à paillettes dans lequel elle a précieusement placé quelques billets de hans, un mouchoir et un bâton de rouge. Le vent frais s'infiltre sur ses jambes par l’ouverture à la cuisse de sa longue robe noire. Elle presse le pas de l’autre côté de la rue. Du rouge sur ses lèvres et des diamants aux oreilles, la femme s’amalgame parfaitement aux autres personnes sur le boulevard.  
