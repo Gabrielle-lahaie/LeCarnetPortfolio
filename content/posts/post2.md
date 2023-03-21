@@ -1,12 +1,15 @@
 +++
 chapter = "Extrait 1"
 date = "2023-02-21T10:01:00.000+00:00"
-title = "Pour le plus grand bien"
+title = ""
 weight = 20
 chapitre = "oui"
 +++
 
-###Extrait dans le cadre du cours universitaire Penser - Écrire
+ # Pour le plus grand bien
+ 
+ ### _Extrait dans le cadre du cours universitaire Penser & Écrire_
+
 
 Inys court à toute vitesse dans le couloir. Chaque pas est accompagné d’une secousse qui brouille sa vision. Son cœur bourdonne dans ses oreilles et vibre dans sa gorge.  
 Jolena va bien. Elle va bien.  
