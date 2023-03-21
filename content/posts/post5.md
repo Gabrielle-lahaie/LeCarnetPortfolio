@@ -1,11 +1,16 @@
 +++
 chapter = "Extrait 4"
 date = "2023-02-21T10:01:00.000+00:00"
-title = "Projet personnel"
+title = ""
 weight = 60
-chapitre = "oui" +++
+chapitre = "oui"
++++
 
-###Extrait du scénario d'un projet personnel
+
+# Projet personnel
+
+### _Extrait du scénario d'un projet personnel_
+
 
 INT.  EMPEROR’S QUARTERS — EARLY DAY
 [...]
