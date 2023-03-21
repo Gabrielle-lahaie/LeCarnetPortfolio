@@ -6,9 +6,9 @@ weight = 20
 chapitre = "oui"
 +++
 
- # Pour le plus grand bien
+# Pour le plus grand bien
  
- ### _Extrait dans le cadre du cours universitaire Penser & Écrire_
+### _Extrait dans le cadre du cours universitaire Penser & Écrire_
 
 
 Inys court à toute vitesse dans le couloir. Chaque pas est accompagné d’une secousse qui brouille sa vision. Son cœur bourdonne dans ses oreilles et vibre dans sa gorge.  
