@@ -1,11 +1,14 @@
 +++
 chapter = "Extrait 2"
 date = "2023-02-21T10:01:00.000+00:00"
-title = "La capture, le procès et le bûcher."
+title = ""
 weight = 40
-chapitre = "oui" +++
+chapitre = "oui"
++++
 
-###Extrait d'une exofiction dans le cadre du cours universitaire Exploration des genres
+# La capture, le procès et le bûcher
+
+### _Extrait d'une exofiction dans le cadre du cours universitaire Exploration des genres_
  
  L’armée des Bourguignons déferla dans les rues de Compiègne, venant porter renfort à la brèche fracassée par les mains françaises. Aussitôt Jeanne reconnut l’ennemi par le rouge sanglant de leurs pourpoints qui envahissait chaque coin de sa périphérie. Elle paniqua. Ses troupes ,englouties sous la vague bourguignonne, ne sauraient résister. Les citoyens se trouvaient capturés et rapatriés au sein du château de Compiègne. D’autres n’avaient pas cette chance et leur sang couvrait le pavé de pierres blanches. À cette vue, l’estomac de Jeanne se tordit. 
   — Non! Cria-t-elle. 
