@@ -6,7 +6,7 @@ weight = 20
 chapitre = "oui"
 +++
 
-##Pour le plus grand bien
+###Extrait dans le cadre du cours universitaire Penser - Écrire
 
 Inys court à toute vitesse dans le couloir. Chaque pas est accompagné d’une secousse qui brouille sa vision. Son cœur bourdonne dans ses oreilles et vibre dans sa gorge.  
 Jolena va bien. Elle va bien.  
