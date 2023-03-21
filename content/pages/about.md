@@ -1,8 +1,8 @@
 ---
 title: À propos
 date: 2023-01-21
-weight: 50
+weight: 70
 type: colophon
 ---
 
-Modèle 3 pour le travail final du cours FRA3825 : Carnet d'écriture. 
+Finissante au BAC en écriture de scénarios et créations littéraire, ce portfolio fait le portrait des nouvelles compétenses aquises durant ma formation académique et mes projets personnels.  
