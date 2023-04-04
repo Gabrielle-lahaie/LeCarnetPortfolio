@@ -15,13 +15,11 @@ chapitre = "oui"
 **INT.  EMPEROR’S QUARTERS — EARLY DAY**
    
    [...] The room is lively. The employees bring platters overfilled with fruits, pastry, bread, cheeses, spreads, and cured or salted ham. Emperor James is sitting at the table and takes a sip of his hot, steamy tea. Adrien enters. 
-<p style="text-align: center;">JAMES
-Ah! Adrien! Good morning!</p>
-   
+   > JAMES
+   > Ah! Adrien! Good morning!
    James raises his eyebrows at the newcomer while he takes a seat.
-   
-<div align="center">JAMES
-Saints… are you well, my friend? You seem quite troubled.
+   > JAMES
+   > Saints… are you well, my friend? You seem quite troubled.
    
    One of the servants fills Adrien’s cup of tea.
    
