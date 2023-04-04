@@ -20,15 +20,14 @@ Ah! Adrien! Good morning!</p>
    
    James raises his eyebrows at the newcomer while he takes a seat.
    
-    <p style="text-align: center;"> JAMES
-   
-   Saints… are you well, my friend? You seem quite troubled.</p> 
+    <div align="center"> JAMES
+ Saints… are you well, my friend? You seem quite troubled.</div> 
    
    One of the servants fills Adrien’s cup of tea.
    
-    <p style="text-align: center;"> ADRIEN
+    <div align="center"> ADRIEN
    
-   Thank you. *(sigh)* Good morning, James. I… I am doing well. However, we need to discuss some important matters.</p> 
+   Thank you. *(sigh)* Good morning, James. I… I am doing well. However, we need to discuss some important matters.</div>
    
    The emperor picks pieces of cheese and bread in the different platters to fill his own. 
    
