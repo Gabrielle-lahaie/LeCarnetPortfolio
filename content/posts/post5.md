@@ -12,7 +12,7 @@ chapitre = "oui"
 ### _Extrait du scénario d'un projet personnel_
 
 
-INT.  EMPEROR’S QUARTERS — EARLY DAY
+**INT.  EMPEROR’S QUARTERS — EARLY DAY**
    
    [...] The room is lively. The employees bring platters overfilled with fruits, pastry, bread, cheeses, spreads, and cured or salted ham. Emperor James is sitting at the table and takes a sip of his hot, steamy tea. Adrien enters. 
 <p style="text-align: center;">JAMES
@@ -20,13 +20,15 @@ Ah! Adrien! Good morning!</p>
    
    James raises his eyebrows at the newcomer while he takes a seat.
    
-<p style="text-align: center;">JAMES
-   Saints… are you well, my friend? You seem quite troubled.</p>
+    <p style="text-align: center;"> JAMES
+   
+   Saints… are you well, my friend? You seem quite troubled.</p> 
    
    One of the servants fills Adrien’s cup of tea.
    
-   <p style="text-align: center;">ADRIEN
-   Thank you. *(sigh)* Good morning, James. I… I am doing well. However, we need to discuss some important matters.</p>
+    <p style="text-align: center;"> ADRIEN
+   
+   Thank you. *(sigh)* Good morning, James. I… I am doing well. However, we need to discuss some important matters.</p> 
    
    The emperor picks pieces of cheese and bread in the different platters to fill his own. 
    
