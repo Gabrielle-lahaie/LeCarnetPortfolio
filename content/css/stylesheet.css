@@ -1,12 +1,12 @@
 html {
   padding:1em; 
   margin:1em; 
-  font-family: sans-serif
+  font-family: Monospace
 } 
 
 /* Überschriften, Größe und Außenabstand, zentrieren */ 
-h1 {font-size: 2.0em; padding: 0; margin:1em; text-align: center; color: red}
-h2 {font-size: 1.5em; padding: 0; margin:1em; text-align: center; color: pink}
+h1 {font-size: 2.0em; padding: 0; margin:1em; text-align: center;}
+h2 {font-size: 1.5em; padding: 0; margin:1em; text-align: center;}
 h3 {font-size: 1.2em; padding: 0; margin:1em; text-align: center}
 h4, .introtext {font-size: 1.2em; padding: 0; margin:1em; text-align: center}
 h5 {font-size: 1.0em; padding: 0; margin:1em; text-align: center}
@@ -63,9 +63,7 @@ display: block
 section {border-top: thin dotted; border-bottom: thin dotted}
 aside {border-left: thin dotted; font-size: 0.9em;}
 blockquote { margin-left:0; border-left: thin dotted; margin-top: 1.5em; }
-blockquote p { font:Courier New;}
-blockquote p { padding-left: 1em; font-style: italic; font-size: 1.2em;}
-blockquote p { color:black;}
+blockquote p { padding-left: 1em; font-color: black; font: Courier New; font-style: italic; font-size: 1.2em;}
 
 
 aside h2 {font-size: 1.5em; text-align: left; margin-left:0; }
