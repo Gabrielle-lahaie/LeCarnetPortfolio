@@ -15,25 +15,27 @@ chapitre = "oui"
 **INT.  EMPEROR’S QUARTERS — EARLY DAY**
    
    [...] The room is lively. The employees bring platters overfilled with fruits, pastry, bread, cheeses, spreads, and cured or salted ham. Emperor James is sitting at the table and takes a sip of his hot, steamy tea. Adrien enters. 
+   
    > JAMES
    > Ah! Adrien! Good morning!
+   
    James raises his eyebrows at the newcomer while he takes a seat.
+   
    > JAMES
    > Saints… are you well, my friend? You seem quite troubled.
    
    One of the servants fills Adrien’s cup of tea.
    
-    <div align="center"> ADRIEN
-   
-   Thank you. *(sigh)* Good morning, James. I… I am doing well. However, we need to discuss some important matters.</div>
+   >ADRIEN
+   >Thank you. *(sigh)* Good morning, James. I… I am doing well. However, we need to discuss some important matters.
    
    The emperor picks pieces of cheese and bread in the different platters to fill his own. 
    
-   JAMES
-   Ah! If this is about master Dalvosen, I already made it clear: it is non-negotiable. People like him are difficult to find! As for lady Porter, you simply were fortunate. (He pauses to take a bite) Give him a chance and you will see. I heard he is much appreciated in the north. Did he ever tell you about how he got free of—
+   > JAMES
+   > Ah! If this is about master Dalvosen, I already made it clear: it is non-negotiable. People like him are difficult to find! As for lady Porter, you simply were fortunate. *(He pauses to take a bite)* Give him a chance and you will see. I heard he is much appreciated in the north. Did he ever tell you about how he got free of—
    
-   ADRIEN
-   It is... It is not about… this.
+   > ADRIEN
+   > It is... It is not about… this.
    
    James signs and strikes him with a bothered look.
    
