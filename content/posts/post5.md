@@ -20,8 +20,8 @@ Ah! Adrien! Good morning!</p>
    
    James raises his eyebrows at the newcomer while he takes a seat.
    
-    <div align="center"> JAMES
- Saints… are you well, my friend? You seem quite troubled.</div> 
+    <div align="center">JAMES</div>
+ Saints… are you well, my friend? You seem quite troubled.
    
    One of the servants fills Adrien’s cup of tea.
    
