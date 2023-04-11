@@ -10,10 +10,6 @@ pygmentsCodeFences = false
 pygmentsUseClasses = false
 relativeURLs = true
 
-[[menu.nav]]
-                            name = "Crédits"
-                            url = "/credits/"
-                            weight = 4
                             
 
 [markup]
@@ -63,3 +59,9 @@ link = "plugins/search/search.js"
 [params.cookies]
 enable = false
 expire_days = 2
+
+
+[[menu.nav]]
+                            name = "Crédits.md"
+                            url = "/credits/"
+                            weight = 4
