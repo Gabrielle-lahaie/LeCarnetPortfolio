@@ -1,7 +1,7 @@
 auteur = "Gabrielle Lahaie"
 bloctexte = "justify"
 copyright = "CC BY-NC-SA"
-couverture = "/uploads/couverture.png"
+couverture = "static/assets/css/pexels-monstera-6373296.jpg"
 description = "Description"
 edition = "Fabrique"
 format = "portrait"
