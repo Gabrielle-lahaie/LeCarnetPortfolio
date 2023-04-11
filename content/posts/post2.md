@@ -6,7 +6,8 @@ weight = 20
 chapitre = "oui"
 +++
 
-[image](/static/pexels-charlotte-may-5825361.jpg)
+
+![pexels-charlotte-may-5825361 (1)](https://user-images.githubusercontent.com/125170529/231292975-d805f438-a68d-4077-9662-5718f91b2c1b.jpg)
 
 # Pour le plus grand bien
  
