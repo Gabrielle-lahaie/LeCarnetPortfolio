@@ -10,6 +10,12 @@ pygmentsCodeFences = false
 pygmentsUseClasses = false
 relativeURLs = true
 
+[[menu.nav]]
+                            name = "Crédits"
+                            url = "/credits/"
+                            weight = 4
+                            
+
 [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark]
