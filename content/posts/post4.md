@@ -6,7 +6,8 @@ weight = 50
 chapitre = "oui"
 +++
 
-[image](/static/pexels-cottonbro-studio-7299583.jpg)
+![pexels-cottonbro-studio-7299583](https://user-images.githubusercontent.com/125170529/231293198-ba85e1f6-539b-4503-86b4-72e04f3470c1.jpg)
+
 
 # Des cendres rouges sur Hanokaville
 
