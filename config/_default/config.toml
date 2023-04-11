@@ -61,7 +61,3 @@ enable = false
 expire_days = 2
 
 
-[[menu.nav]]
-                            name = "Crédits.md"
-                            url = "/credits/"
-                            weight = 4
