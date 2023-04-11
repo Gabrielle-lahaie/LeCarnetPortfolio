@@ -6,7 +6,7 @@ weight = 20
 chapitre = "oui"
 +++
 
-[image](static/assets/css/pexels-monstera-6373296.jpg)
+[image](/static/pexels-charlotte-may-5825361.jpg)
 
 # Pour le plus grand bien
  
