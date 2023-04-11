@@ -6,6 +6,8 @@ weight = 40
 chapitre = "oui"
 +++
 
+[image](/static/pexels-maria-pop-339805.jpg)
+
 # La capture, le procès et le bûcher
 
 ### _Extrait d'une exofiction dans le cadre du cours universitaire Exploration des genres_
