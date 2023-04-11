@@ -6,7 +6,8 @@ weight = 40
 chapitre = "oui"
 +++
 
-[image](/static/pexels-maria-pop-339805.jpg)
+![pexels-maria-pop-339805](https://user-images.githubusercontent.com/125170529/231293087-d680a988-b6d8-4104-95c0-ba1638b5e40a.jpg)
+
 
 # La capture, le procès et le bûcher
 
