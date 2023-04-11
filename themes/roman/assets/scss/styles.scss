@@ -551,7 +551,7 @@ code.highlighter-rouge {
 
 // base
 body {
-  background: $brand-color;
+  background: lightblue;
   color: $text-color;
   font-family: $font-family;
   font-size: 1.3125em;
@@ -562,12 +562,16 @@ h1 {
   font-size: 3em;
   margin: .5em auto;
   font-family: $font-family;
+  color: darkblue;
+  text-align: center
 }
 
 h1.gothic {
   font-size: 3em;
   margin: .5em auto;
   font-family: $font-family2;
+  color: darkblue;
+  text-align: center
 }
 
 h2 {
@@ -621,7 +625,6 @@ a:focus {
 
 blockquote {
   margin: 2em auto;
-  opacity: .8;
 
   >* {
     padding: 0 3em;
@@ -729,6 +732,7 @@ figcaption {
     box-sizing: border-box;
     position: relative;
     text-align: center;
+    color : pink;
   }
 
   .site-masthead h1 {
@@ -893,7 +897,7 @@ figcaption {
 
   // article
   .post {
-    background: white;
+    background: lightpink;
     margin: 2em auto;
     max-width: 60rem;
     padding: 2em 0;
