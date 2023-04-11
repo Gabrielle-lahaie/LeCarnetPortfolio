@@ -6,6 +6,8 @@ weight = 20
 chapitre = "oui"
 +++
 
+[image](static/assets/css/pexels-monstera-6373296.jpg)
+
 # Pour le plus grand bien
  
 ### _Extrait dans le cadre du cours universitaire Penser & Écrire_
