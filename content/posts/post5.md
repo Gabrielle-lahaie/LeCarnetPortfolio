@@ -6,6 +6,7 @@ weight = 60
 chapitre = "oui"
 +++
 
+[image](/static/pexels-solodsha-8106476.jpg)
 
 # Projet personnel
 
