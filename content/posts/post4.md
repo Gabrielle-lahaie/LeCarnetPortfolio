@@ -6,6 +6,8 @@ weight = 50
 chapitre = "oui"
 +++
 
+[image](/static/pexels-aleksandar-pasaric-1134166.jpg)
+
 # Des cendres rouges sur Hanokaville
 
 ### _Extrait du "Projet long" réalisé dans le cadre d'un cours universitaire Penser & Écrire_
