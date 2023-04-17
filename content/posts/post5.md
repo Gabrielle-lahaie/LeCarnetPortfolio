@@ -41,98 +41,100 @@ chapitre = "oui"
    
    James signs and strikes him with a bothered look.
    
-   JAMES
-   What is the issue, then? I will have you know, complaints from you have been constant since your recent promotion. You do not like me throwing you a nice little celebration—
    
-   ADRIEN
-   It wasn’t little…
+   > JAMES 
+   > What is the issue, then? I will have you know, complaints from you have been constant since your recent promotion. You do not like me throwing you a nice little celebration—
    
-   JAMES (cont’d)
-   —You do not like your weapon master, you do not like how the council people address you… My dear friend, you need to assert your place and command. You cannot keep whining to me like this. I might be the ruler of this place, but I am not yours. We are equals, remember this.
+   > ADRIEN
+   > It wasn’t little…
+   
+   > JAMES (cont’d)
+   > You do not like your weapon master, you do not like how the council people address you… My dear friend, you need to assert your place and command. You cannot keep whining to me like this. I might be the ruler of this place, but I am not yours. We are equals, remember this.
    
    James notices Adrien didn’t touch any of the food. The emperor points at the platters with his knife.
    
-   JAMES
-   What are you waiting for, young man? You look all pale, have a bite, it would certainly make you feel better. 
+   > JAMES
+   > What are you waiting for, young man? You look all pale, have a bite, it would certainly make you feel better. 
    
    Adrien sighs and gathers some food on his plate. 
    
-   JAMES
-   Tell me now, before I lose the rest of my precious patience, what is it you need to tell me?
+   > JAMES
+   > Tell me now, before I lose the rest of my precious patience, what is it you need to tell me?
    
-   ADRIEN
-   I would prefer to discuss this matter in a more private environment.
+   > ADRIEN
+   > I would prefer to discuss this matter in a more private environment.
    
    The emperor raises his hand and dismisses all the employees. Once they are alone, he looks back at Adrian.
    
-   JAMES
-   Talk.
+   > JAMES 
+   > Talk.
    
-   ADRIEN
-   I know who orchestrated the attack on the night of my celebration.
+   > ADRIEN
+   > I know who orchestrated the attack on the night of my celebration.
    
-   JAMES
-   And who might that be?
+   > JAMES
+   > And who might that be?
    
-   ADRIEN
-   The empress.
+   > ADRIEN
+   > The empress.
    
    James stares at him through a heavy silence.
    
-   JAMES
-   Pardon me, I thought there was more to it.
+   > JAMES
+   > Pardon me, I thought there was more to it.
    
-   ADRIEN
-   No. The facts are simple: the empress hired the con women that tried to have me framed.
+   > ADRIEN
+   > No. The facts are simple: the empress hired the con women that tried to have me framed.
    
    James grips his utensils making them point toward the ceiling. His jaw is clenched.
    
-   JAMES
-   And what proof do you have to accuse my wife of such severe charges?
+   > JAMES
+   > And what proof do you have to accuse my wife of such severe charges?
    
-   ADRIEN
-   I intercepted this letter in her quarters last night.
+   > ADRIEN
+   > I intercepted this letter in her quarters last night.
    
    Adrien slides the letter towards the emperor.
    
-   JAMES
-   And do you care to explain why you were in the empress’s quarters at all?
+   > JAMES
+   > And do you care to explain why you were in the empress’s quarters at all?
 
-ADRIEN
-The blue seal on the letter had me intrigued… We both know where these come from.
+   > ADRIEN
 
-James takes the letter and reads it. Then he puts it back down.
+   The blue seal on the letter had me intrigued… We both know where these come from.
 
-JAMES
-You should not allow yourself in anyone's quarters at any time.
+   James takes the letter and reads it. Then he puts it back down.
 
-ADRIEN
-I was forced to.
+   > JAMES
+   > You should not allow yourself in anyone's quarters at any time.
 
-JAMES
-This piece of paper forced you?
+   > ADRIEN
+   > I was forced to.
 
-ADRIEN
-My duties—
+   > JAMES
+   > This piece of paper forced you?
 
-JAMES
-Ah! If I understand you well, anybody can venture into anybody's home now as long as they have “duties”? Are you about to visit me as well? Should we have it scheduled?
+   > ADRIEN
+   > My duties—
 
-Adrien frowns. He straightens himself and exhales loudly. 
+   > JAMES
+   > Ah! If I understand you well, anybody can venture into anybody's home now as long as they have “duties”? Are you about to visit me as well? Should we have it scheduled?
 
-ADRIEN
-(aggressive)
-Your majesty, I am the protector of this continent, anything I suspect must be looked into.
+   Adrien frowns. He straightens himself and exhales loudly. 
 
-JAMES
-To the extent of going against the law?
+   > ADRIEN
+   > _(aggressive)_
+   > Your majesty, I am the protector of this continent, anything I suspect must be looked into.
 
-ADRIEN
-I am the law.
+   > JAMES
+   > To the extent of going against the law?
 
-A long silence falls between the two men. After a while, the emperor gets up.
+   > ADRIEN
+   > I am the law.
 
-JAMES
-Wine. I need wine.
+   A long silence falls between the two men. After a while, the emperor gets up.
+
+   > JAMES
+   > Wine. I need wine.
 
 
