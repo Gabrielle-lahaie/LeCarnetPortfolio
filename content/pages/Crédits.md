@@ -2,6 +2,7 @@
 title: Crédits
 date: 2023-01-21
 weight: 4
+type: colophon
 
 ---
 
