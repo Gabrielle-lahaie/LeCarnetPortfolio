@@ -159,6 +159,6 @@ Jacqueline relâche Antoine et ramasse son couteau. Les coups contre la porte de
 ***
 
    
-[^3] Hans : monnaie utilisé dans cet univers.  
+[^3]: Hans : monnaie utilisé dans cet univers.  
 
-[^4] **Monsieuzel** : terme utilisé pour définir un homme non marié. _(Rappel à mademoiselle)_
+[^4]: Monsieuzel : terme utilisé pour définir un homme non marié. _(Rappel à mademoiselle)_
