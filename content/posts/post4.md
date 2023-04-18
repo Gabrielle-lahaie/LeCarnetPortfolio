@@ -15,7 +15,7 @@ chapitre = "oui"
 
 Les pneus de la voiture crissent lorsque la détective Jacqueline Rivière appuie sur le frein. La nuit vient de tomber, un crépuscule bleuté anime le ciel, mais est terni par la lueur fuchsia et cramoisie des affiches des commerces de l’arrondissement. Le coin est animé. Deux hommes richement habillés de complets foncés, se tenant bras dessus bras dessous, marchent et discutent en direction des clubs de soirées. Sur la nuque de l’un des deux hommes, Jacqueline voit un tatouage de tigre à l’encre rouge. Trois femmes fumant des cigares au coin d’une rue les interpellent grossièrement. Les deux hommes les ignorent et continuent leur chemin, ils entrent dans un établissement dont le reflet de l’enseigne néon vermeille brille sur la chaussée mouillée.  
 
-Jacqueline sort du véhicule sans oublier son petit sac à paillettes dans lequel elle a précieusement placé quelques billets de hans[^1], un mouchoir et un bâton de rouge. Le vent frais s'infiltre sur ses jambes par l’ouverture à la cuisse de sa longue robe noire. Elle presse le pas de l’autre côté de la rue. Du rouge sur ses lèvres et des diamants aux oreilles, la femme s’amalgame parfaitement aux autres personnes sur le boulevard.  
+Jacqueline sort du véhicule sans oublier son petit sac à paillettes dans lequel elle a précieusement placé quelques billets de hans[^3], un mouchoir et un bâton de rouge. Le vent frais s'infiltre sur ses jambes par l’ouverture à la cuisse de sa longue robe noire. Elle presse le pas de l’autre côté de la rue. Du rouge sur ses lèvres et des diamants aux oreilles, la femme s’amalgame parfaitement aux autres personnes sur le boulevard.  
 
 Jacqueline suit les traces des deux hommes. Ses talons claquent sur le sol. Elle salue les trois femmes d’un signe de tête. Devant Le Rubï, des voix et de la musique embrassent les passants. Jacqueline pousse la porte.  
 
@@ -85,7 +85,7 @@ Elle efface la teinte du coin de ses lèvres pendant qu’il la regarde avec ses
 
 --- Puis-je au moins connaître votre nom? chuchote-t-il à son oreille.  
 
---- Appelez-moi Jackie. Le vôtre, monsieuzel[^2]?  
+--- Appelez-moi Jackie. Le vôtre, monsieuzel[^4]?  
 
 --- Antoine.  
 
@@ -156,9 +156,9 @@ Jacqueline relâche Antoine et ramasse son couteau. Les coups contre la porte de
 --- Je prends ça pour un accord, dit Antoine en se redressant.  
 --- Filez avant qu’il ne soit trop tard.  
   
-  
- 
-   
-[^1] Hans : monnaie utilisé dans cet univers.  
+***
 
-[^2] **Monsieuzel** : terme utilisé pour définir un homme non marié. _(Rappel à mademoiselle)_
+   
+[^3] Hans : monnaie utilisé dans cet univers.  
+
+[^4] **Monsieuzel** : terme utilisé pour définir un homme non marié. _(Rappel à mademoiselle)_
