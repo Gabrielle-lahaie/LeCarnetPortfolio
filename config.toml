@@ -20,7 +20,7 @@ weight = 3
 [[menu.main]]
                             identifier = "Crédits"
                             name = "Crédits"
-                            url = "/credits/"
+                            url = "/Crédits/"
                             weight = 4
 [outputs]
 home = ["HTML"]
