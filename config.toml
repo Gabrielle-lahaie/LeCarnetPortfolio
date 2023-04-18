@@ -18,7 +18,7 @@ name = "Impression"
 url = "/print"
 weight = 3
 [[menu.main]]
-                            identifier = "Credits"
+                            identifier = "Crédits"
                             name = "Crédits"
                             url = "/credits/"
                             weight = 4
