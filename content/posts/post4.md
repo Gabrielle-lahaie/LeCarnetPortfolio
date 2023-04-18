@@ -63,25 +63,28 @@ Elle efface la teinte du coin de ses lèvres pendant qu’il la regarde avec ses
 --- Vous êtes en mission? murmure-t-il.  
 
 --- En mission? Je ne suis qu’une simple presse-papiers, dit Jacqueline en donnant un air convainquant.  
-  L’homme lui offre un sourire oblique et hausse un sourcil. Elle range le mouchoir. Autour d’eux les verres glissent sur le bar, les plateaux pleins décollent, d’autres reviennent vides, les barmaids parlent fort et font couler l’alcool à flot.  
-  --- Vous m’invitez à danser? demande l’homme.  
-  Jacqueline baisse les yeux vers sa main qui s’est glissée sur son bras. Puis reporte son regard sur la table au fond. La femme blonde rit à gorge déployée alors qu’une employée vient déposer la commande de verres sur la table.   
 
-  --- Je ne voudrais pas contrarier votre partenaire là-bas, dit Jacqueline en désignant la table de Madame P, avant de prendre une gorgée.  
-  
-  L’homme pouffe de rire.  
-  
-  --- Rassurez-vous, elle n’est en rien ma partenaire.  
-  
-  Jacqueline hausse un sourcil.  
- 
-  --- Vous pensez pouvoir me faire asseoir à cette table?  
-  
-  Le regard sombre de son vis-à-vis s’illumine d’une malice dangereuse que Jacqueline n’est pas capable de déchiffrer.  
- 
-  --- Seulement si vous me faites danser.  
+L’homme lui offre un sourire oblique et hausse un sourcil. Elle range le mouchoir. Autour d’eux les verres glissent sur le bar, les plateaux pleins décollent, d’autres reviennent vides, les barmaids parlent fort et font couler l’alcool à flot.  
 
-  Jacqueline finit son verre. Elle tend la main. Il la saisit et elle l’emporte sur la piste de danse où il fait chaud. La musique est douce et rythmée. Ils s'élancent, tournent à travers les autres couples sous une lueur tamisée. Antoine fait tournoyer Jaqueline avant de la ramener contre lui de dos.  
+--- Vous m’invitez à danser? demande l’homme.  
+
+Jacqueline baisse les yeux vers sa main qui s’est glissée sur son bras. Puis reporte son regard sur la table au fond. La femme blonde rit à gorge déployée alors qu’une employée vient déposer la commande de verres sur la table.   
+
+--- Je ne voudrais pas contrarier votre partenaire là-bas, dit Jacqueline en désignant la table de Madame P, avant de prendre une gorgée.  
+  
+L’homme pouffe de rire.  
+  
+--- Rassurez-vous, elle n’est en rien ma partenaire.  
+  
+Jacqueline hausse un sourcil.  
+ 
+--- Vous pensez pouvoir me faire asseoir à cette table?  
+  
+Le regard sombre de son vis-à-vis s’illumine d’une malice dangereuse que Jacqueline n’est pas capable de déchiffrer.  
+ 
+--- Seulement si vous me faites danser.  
+
+Jacqueline finit son verre. Elle tend la main. Il la saisit et elle l’emporte sur la piste de danse où il fait chaud. La musique est douce et rythmée. Ils s'élancent, tournent à travers les autres couples sous une lueur tamisée. Antoine fait tournoyer Jaqueline avant de la ramener contre lui de dos.  
 
 --- Puis-je au moins connaître votre nom? chuchote-t-il à son oreille.  
 
